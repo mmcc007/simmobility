@@ -1,0 +1,5 @@
+task:
+  name: SIMMOBILITY
+  container:
+    dockerfile: .ci/Dockerfile
+  run_script: echo nothing to see here.
